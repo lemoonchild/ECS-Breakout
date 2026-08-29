@@ -4,7 +4,7 @@ Reimplementación del clon de Breakout de la tarea de game loops (Game-Loops-Bre
 
 ## Demo
 
-
+<img width="666" height="404" alt="ecs" src="https://github.com/user-attachments/assets/efefe16c-ba69-4b41-b5f2-f8c21d5f4c79" />
 
 ## Gameplay
 
